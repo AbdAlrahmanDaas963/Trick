@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Trick/static/css/main.247eb8a4.chunk.css",
+    "main.js": "/Trick/static/js/main.22b18bfb.chunk.js",
+    "main.js.map": "/Trick/static/js/main.22b18bfb.chunk.js.map",
+    "runtime-main.js": "/Trick/static/js/runtime-main.59a26ee5.js",
+    "runtime-main.js.map": "/Trick/static/js/runtime-main.59a26ee5.js.map",
+    "static/js/2.07a3fc82.chunk.js": "/Trick/static/js/2.07a3fc82.chunk.js",
+    "static/js/2.07a3fc82.chunk.js.map": "/Trick/static/js/2.07a3fc82.chunk.js.map",
+    "static/js/3.052a7ef8.chunk.js": "/Trick/static/js/3.052a7ef8.chunk.js",
+    "static/js/3.052a7ef8.chunk.js.map": "/Trick/static/js/3.052a7ef8.chunk.js.map",
+    "index.html": "/Trick/index.html",
+    "static/css/main.247eb8a4.chunk.css.map": "/Trick/static/css/main.247eb8a4.chunk.css.map",
+    "static/js/2.07a3fc82.chunk.js.LICENSE.txt": "/Trick/static/js/2.07a3fc82.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Trick/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59a26ee5.js",
+    "static/js/2.07a3fc82.chunk.js",
+    "static/css/main.247eb8a4.chunk.css",
+    "static/js/main.22b18bfb.chunk.js"
+  ]
+}
